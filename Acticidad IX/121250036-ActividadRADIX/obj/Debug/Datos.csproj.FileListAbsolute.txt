@@ -1,0 +1,4 @@
+C:\Users\FC BARCA\Downloads\Acticidad IX\Acticidad IX\121250036-ActividadRADIX\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\FC BARCA\Downloads\Acticidad IX\Acticidad IX\121250036-ActividadRADIX\obj\Debug\_121250036_ActividadRADIX.Properties.Resources.resources
+C:\Users\FC BARCA\Downloads\Acticidad IX\Acticidad IX\121250036-ActividadRADIX\obj\Debug\Datos.csproj.GenerateResource.cache
+C:\Users\FC BARCA\Downloads\Acticidad IX\Acticidad IX\121250036-ActividadRADIX\obj\Debug\Datos.csproj.CoreCompileInputs.cache
